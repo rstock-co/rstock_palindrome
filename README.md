@@ -1,8 +1,6 @@
-# RstockPalindrome
+# Richard's First Gem
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/rstock_palindrome`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+This gem adds the method `palindrome?` to the native `String` class in Ruby, to check if the string is indeed a palindrome.
 
 ## Installation
 
